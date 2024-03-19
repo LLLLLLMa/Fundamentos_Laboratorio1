@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  *
- * @author Lian Morgado
+ * @author Lian Morgado, Xavier Soliz Rojas
  */
 
 public class Lab01 {
